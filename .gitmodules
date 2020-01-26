@@ -1,0 +1,6 @@
+[submodule "ucct_frontend"]
+	path = ucct_frontend
+	url = https://github.com/retnikt/ucct_frontend
+[submodule "ucct_backend"]
+	path = ucct_backend
+	url = https://github.com/retnikt/ucct_backend
